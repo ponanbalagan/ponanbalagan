@@ -13,7 +13,7 @@ Former Data Operations Engineer, Pharma IT (AstraZeneca) — now building hands-
 
 ### 🌐 Socials
 
-                    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ponanbalagan-s/) 
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ponanbalagan-s/) 
 
 ---
 
@@ -33,7 +33,7 @@ This background shapes how I approach AI systems — with attention to data  qua
 - 💼 Background in Data Operations (AstraZeneca, Pharma IT) — brings data quality, validation, and reliability discipline into AI systems
 - 🏢 Also building a marketing agency — combining AI automation with real client/business use cases
 - 🎯 Seeking: GenAI Engineer, RAG Specialist, AI Application Developer roles
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/ponanbalagan-s/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ponanbalagan-s/) 
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/ponanbalagan-s/)
 
 ---
 
