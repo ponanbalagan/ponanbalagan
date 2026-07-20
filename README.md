@@ -68,8 +68,8 @@ One-line description of the problem it solves and the result.
 
 ---
 
-<p align="center"><i>Open to Generative AI Engineer / AI Agent Developer roles — let's connect.</i></p>
-📫 **Let's Connect:** Open to full-time roles, contract work, and technical collaborations in Generative AI.
+<p align="center"><i><b>Open to Generative AI Engineer / AI Agent Developer roles — 📫 let's connect.</i></b></p>
+
 
 ---
 <picture>
