@@ -25,7 +25,7 @@ This background shapes how I approach AI systems — with attention to data  qua
 
 ---
 
-### 🎯 Currently
+### 🎯 Technical Focus & Scope
 
 - 🔭 Building toward production-grade **RAG pipelines** — exploring hybrid search, metadata filtering, and evaluation frameworks
 - 🤖 Learning **AI agent systems** — multi-agent workflows with LangGraph, tool-calling, state management
