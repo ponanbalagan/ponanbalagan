@@ -53,14 +53,6 @@ Former Data Operations Engineer, Pharma IT (AstraZeneca) — now building hands-
 One-line description of the problem it solves and the result.
 `Python` `LangChain` `RAG`
 
-**[Project 2 Name](https://github.com/ponanbalagan/project-2)**
-One-line description of the problem it solves and the result.
-`LangGraph` `FastAPI` `Agents`
-
-**[Project 3 Name](https://github.com/ponanbalagan/project-3)**
-One-line description of the problem it solves and the result.
-`Python` `Automation`
-
 ---
 
 ### 📊 GitHub Stats
@@ -70,9 +62,6 @@ One-line description of the problem it solves and the result.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ponanbalagan&theme=default" alt="GitHub Streak" height="165"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ponanbalagan&layout=compact&theme=default" alt="Top Languages"/>
-</p>
 
 ---
 
