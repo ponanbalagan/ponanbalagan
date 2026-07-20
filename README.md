@@ -7,12 +7,12 @@ Former Data Operations Engineer, Pharma IT (AstraZeneca) — now building hands-
 
 <p align="center">
 📍 Chennai, India &nbsp;|&nbsp;
-<a href="https://www.linkedin.com/in/ponanbalagan-s/">LinkedIn</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ponanbalagan-s/) 
 </p>
 
 ---
 
-### 📄 About Me
+### 💫 About Me
 
 Former Junior Engineer, Data Operations at AstraZeneca (Pharma IT) — approx. 1 year experience in data accuracy, process compliance, and operational systems in a regulated environment. Took a career break, and am now transitioning into Generative AI / Agentic AI Engineering, building real projects from the ground up.
 
@@ -32,7 +32,7 @@ This background shapes how I approach AI systems — with attention to data  qua
 
 ---
 
-### 🛠️ Tech Stack
+### 💻  Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
