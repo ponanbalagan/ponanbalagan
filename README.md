@@ -8,7 +8,6 @@ Former Data Operations Engineer, Pharma IT (AstraZeneca) — now building hands-
 <p align="center">
 📍 Chennai, India &nbsp;|&nbsp;
 <a href="https://www.linkedin.com/in/ponanbalagan-s/">LinkedIn</a> &nbsp;|&nbsp;
-<a href="mailto:YOUR_EMAIL">Email</a>
 </p>
 
 ---
