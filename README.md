@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm  Ponanbalagan 👋</h1>
+<h1 align="center">Hi, I'm [Your Name] 👋</h1>
 <h3 align="center">Building RAG Systems & AI Agents | LangChain · LangGraph · Python · FastAPI</h3>
 
 <p align="center">
@@ -7,18 +7,19 @@ Former Data Operations Engineer, Pharma IT (AstraZeneca) — now building hands-
 
 <p align="center">
 📍 Chennai, India &nbsp;|&nbsp;
-<a href="https://www.linkedin.com/in/ponanbalagan-s/">LinkedIn</a> &nbsp;|&nbsp;
+<a href="https://www.linkedin.com/in/ponanbalagan-s/">LinkedIn</a>
 </p>
 
 ---
 
 ### 🎯 Currently
 
-- 🔭 Building real-world **RAG pipelines** and **AI agents** for practical use cases (marketing automation, document Q&A, workflow agents)
-- 🌱 Learning: LangChain, LangGraph, vector databases, prompt engineering, agent orchestration
-- 💼 Background in Data Operations (Pharma IT) — bring process discipline, data accuracy, and QA mindset to AI systems
+- 🔭 Building toward production-grade **RAG pipelines** — exploring hybrid search, metadata filtering, and evaluation frameworks
+- 🤖 Learning **AI agent systems** — multi-agent workflows with LangGraph, tool-calling, state management
+- ⚙️ Practicing **production APIs** — FastAPI backends with async processing
+- 💼 Background in Data Operations (AstraZeneca, Pharma IT) — brings data quality, validation, and reliability discipline into AI systems
 - 🏢 Also building a marketing agency — combining AI automation with real client/business use cases
-- 🎯 Open to: Generative AI Engineer, AI Agent Developer, ML/AI Associate roles
+- 🎯 Seeking: GenAI Engineer, RAG Specialist, AI Application Developer roles
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/ponanbalagan-s/)
 
 ---
