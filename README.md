@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="Banner" width="50%" height="50%" />
+
 <h1 align="center">Hi, I'm  Ponanbalagan   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"></h1>
 <h3 align="center">Building RAG Systems & AI Agents | LangChain · LangGraph · Python · FastAPI</h3>
 
@@ -9,7 +11,7 @@ Former Data Operations Engineer, Pharma IT (AstraZeneca) — now building hands-
 📍 Chennai, India 
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="Banner" width="100%" />
+---
 
 ## 🌐 Socials:
 
