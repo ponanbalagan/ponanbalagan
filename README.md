@@ -12,6 +12,14 @@ Former Data Operations Engineer, Pharma IT (AstraZeneca) — now building hands-
 
 ---
 
+### 📄 About Me
+
+Former Junior Engineer, Data Operations at AstraZeneca (Pharma IT) — approx. 1 year experience in data accuracy, process compliance, and operational systems in a regulated environment. Took a career break, and am now transitioning into Generative AI / Agentic AI Engineering, building real projects from the ground up.
+
+This background shapes how I approach AI systems — with attention to data  quality, validation, and reliability rather than just getting a demo working.
+
+---
+
 ### 🎯 Currently
 
 - 🔭 Building toward production-grade **RAG pipelines** — exploring hybrid search, metadata filtering, and evaluation frameworks
@@ -52,14 +60,6 @@ Former Data Operations Engineer, Pharma IT (AstraZeneca) — now building hands-
 **[Project 1 Name](https://github.com/ponanbalagan/project-1)**
 One-line description of the problem it solves and the result.
 `Python` `LangChain` `RAG`
-
----
-
-### 📄 Background
-
-Former Junior Engineer, Data Operations at AstraZeneca (Pharma IT) — approx. 1 year experience in data accuracy, process compliance, and operational systems in a regulated environment. Took a career break, and am now transitioning into Generative AI / Agentic AI Engineering, building real projects from the ground up.
-
-This background shapes how I approach AI systems — with attention to data  quality, validation, and reliability rather than just getting a demo working.
 
 ---
 
