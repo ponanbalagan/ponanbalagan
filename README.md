@@ -28,14 +28,16 @@ Former Data Operations Engineer, Pharma IT (AstraZeneca) — now building hands-
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-
-  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-black?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/git.svg" height="30" alt="git logo"  />
+<img src="https://img.icons8.com/?size=100&id=mHi46t5vguiz&format=png&color=000000" height="30" alt=" logo"  />
   <img width="12" />
+  ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/postgresql.svg"  height="30" alt="postgre logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/git.svg" height="30" alt="git logo"  />
+<img width="12" />
 
 ---
 
